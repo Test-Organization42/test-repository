@@ -15,7 +15,7 @@ public class TestRepositoryApplication {
 	
 	@RequestMapping("/")
 	public String home() {
-		return"home";
+		return"Hallo Welt";
 		
 	}
 
